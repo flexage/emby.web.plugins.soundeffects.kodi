@@ -2,7 +2,7 @@
 
 # Installation
 
-Install into the app by installing a plugin from a url. The url is: http://flexage.github.io/emby.web.plugins.soundeffects.kodi/package.json
+Install into the app by installing a plugin from a url. The url is: https://flexage.github.io/emby.web.plugins.soundeffects.kodi/package.json
 
 # Credits
 
